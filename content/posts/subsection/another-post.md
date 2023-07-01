@@ -1,6 +1,7 @@
 +++
 title = "Another Post"
 date = 2019-03-03
+[taxonomies]
 +++
 
 
