@@ -1,7 +1,6 @@
 +++
 title = "Syntax Hightlighting"
 date = 2019-02-02
-[taxonomies]
 +++
 
 Here is some syntax hightlighting.
